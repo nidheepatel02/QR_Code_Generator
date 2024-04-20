@@ -1,1 +1,1 @@
-# QR_Code_Scanner
+# QR_Code_Generator
